@@ -1,0 +1,31 @@
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff8f8;
+      padding: 20px;
+    }
+
+    .symptomes {
+      background-color: #ffeaea;
+      border-left: 6px solid #c0392b;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    h1 {
+      color: #c0392b;
+      text-align: center;
+    }
+
+    ul {
+      line-height: 1.8;
+    }
+
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      text-decoration: none;
+      color: #c0392b;
+      font-weight: bold;
+    }

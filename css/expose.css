@@ -5,14 +5,18 @@
     }
 
     .content {
-      background-color: #fff;
+      background-color: #00ff22;
       padding: 20px;
       border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      box-shadow: 0 2px 8px rgba(40, 47, 82, 0.1);
     }
 
     h1 {
       color: #c0392b;
+    }
+
+    h2 {
+      color: blue;
     }
 
     a.button {
@@ -20,7 +24,7 @@
       margin-top: 20px;
       padding: 10px 15px;
       background-color: #c0392b;
-      color: white;
+      color: rgb(253, 253, 253);
       text-decoration: none;
       border-radius: 5px;
     }
