@@ -1,11 +1,11 @@
     body {
       font-family: Arial, sans-serif;
-      background-color: #fff8f8;
+      background-color: #b1f1ee;
       padding: 20px;
     }
 
     .symptomes {
-      background-color: #ffeaea;
+      background-color: #caf196;
       border-left: 6px solid #c0392b;
       padding: 20px;
       border-radius: 8px;
@@ -14,7 +14,7 @@
     }
 
     h1 {
-      color: #c0392b;
+      color: #0577f8;
       text-align: center;
     }
 
@@ -26,6 +26,6 @@
       display: inline-block;
       margin-top: 20px;
       text-decoration: none;
-      color: #c0392b;
+      color: #e9fa00;
       font-weight: bold;
     }

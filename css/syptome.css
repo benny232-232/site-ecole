@@ -5,7 +5,7 @@
     }
 
     .symptomes {
-      background-color: #ffeaea;
+      background-color: #ec9393;
       border-left: 6px solid #c0392b;
       padding: 20px;
       border-radius: 8px;
@@ -14,7 +14,7 @@
     }
 
     h1 {
-      color: #c0392b;
+      color: #55df73;
       text-align: center;
     }
 
@@ -26,6 +26,6 @@
       display: inline-block;
       margin-top: 20px;
       text-decoration: none;
-      color: #c0392b;
+      color: #9020d1;
       font-weight: bold;
     }
