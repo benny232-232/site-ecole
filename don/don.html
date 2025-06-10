@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<link rel="stylesheet" href="../css/global.css">
+<link rel="stylesheet" href="../css/root.css">
+<body>
+  <div class="container">
+    <h1>Faire un Don</h1>
+    <p>Merci de soutenir la sensibilisation à la drépanocytose. Chaque contribution compte ❤️</p>
+
+    <form action="#" method="POST">
+      <label for="name">Nom complet :</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Adresse e-mail :</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="amount">Montant du don (€) :</label>
+      <select id="amount" name="amount" required>
+        <option value="5">5€</option>
+        <option value="10">10€</option>
+        <option value="20">20€</option>
+        <option value="50">50€</option>
+        <option value="custom">Autre montant</option>
+      </select>
+
+      <label for="message">Message (optionnel) :</label>
+      <input type="text" id="message" name="message">
+
+      <button type="submit">Faire un don</button>
+    </form>
+  </div>
+</body>
+
+  <footer>
+    <p>&copy; 2025 Benjamin, Louciann, Marc, April, Matthia</p>
+  </footer>
+</html>
